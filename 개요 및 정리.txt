@@ -1,0 +1,14 @@
+SPA (Single Page Application)
+하나의 HTML 페이지로 동작하는 웹 애플레케이션을 SPA 라고 한다.
+
+리덕트, 넥스트 JS, Redux(상태관리 라이브러리)
+
+npm (Node Package Manager)
+앱 이름 규칙 - pdf 확인
+
+React 개발환경 지원 Node JS
+React의 기본 포트 3000
+
+상태 내려꽂기 Props Driming
+
+https://i.ibb.co/b7CSJ51/image.jpg
