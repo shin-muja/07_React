@@ -12,3 +12,7 @@ React의 기본 포트 3000
 상태 내려꽂기 Props Driming
 
 https://i.ibb.co/b7CSJ51/image.jpg
+
+
+https://doesitmutate.xyz/
+mutates 원본 주소를 통해 건드림을 의미함 리액트는 주소에 민감하니 주의
